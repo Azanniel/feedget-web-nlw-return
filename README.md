@@ -36,3 +36,7 @@ Aprendemos também a tirar um Screenshot da tela usando o html2canvas e como ani
 
 Fizemos a seção de feedback enviado, mas a implementação na prática com o envio para o backend se comunicando com nossa API será feita no Stage 3 onde iremos contruir
 com as melhores práticas e usando testes nossa API para comunicação com a WEB e com o APP React Native.
+
+### Stage 3 -> Novas habilidades [04/05/2022]
+
+Neste dia aprendemos a construir uma aplicação NodeJS utilizando typescript. Na construção desta aplicação usamos, também, conceitos importantes do back-end como SOLID e testes automatizados, além de aprender como persistir informações no banco de dados com Prisma.
